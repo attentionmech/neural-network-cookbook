@@ -19,3 +19,21 @@
 | 15 | Normalize inputs (e.g., using MinMaxScaler or StandardScaler) before training.               | [src/nn15.py](src/nn15.py)  |
 | 16 | Build an autoencoder to learn an encoding for simple data (e.g., a small 2D dataset).         | [src/nn16.py](src/nn16.py)  |
 | 17 | Train an autoencoder and visualize the reconstruction of the input data.                      | [src/nn17.py](src/nn17.py)  |
+| 18 | Implement batch normalization and observe its effect on training speed and performance. | [src/nn18.py](src/nn18.py) |
+| 19 | Create a simple Convolutional Neural Network (CNN) for MNIST digit classification. | [src/nn19.py](src/nn19.py) |
+| 20 | Implement transfer learning by fine-tuning a pre-trained model on a small dataset. | [src/nn20.py](src/nn20.py) |
+| 21 | Build a Recurrent Neural Network (RNN) for a simple sequence prediction task. | [src/nn21.py](src/nn21.py) |
+| 22 | Implement a Long Short-Term Memory (LSTM) network for time series prediction. | [src/nn22.py](src/nn22.py) |
+| 23 | Create a Generative Adversarial Network (GAN) for generating simple 2D point distributions. | [src/nn23.py](src/nn23.py) |
+| 24 | Implement weight initialization strategies (Xavier/Glorot, He initialization). | [src/nn24.py](src/nn24.py) |
+| 25 | Build a neural network ensemble and compare its performance to individual models. | [src/nn25.py](src/nn25.py) |
+| 26 | Create a custom loss function and apply it to a neural network. | [src/nn26.py](src/nn26.py) |
+| 27 | Implement k-fold cross-validation for model evaluation. | [src/nn27.py](src/nn27.py) |
+| 28 | Design a neural network for function approximation (e.g., approximating sin(x)). | [src/nn28.py](src/nn28.py) |
+| 29 | Create a simple attention mechanism in a neural network. | [src/nn29.py](src/nn29.py) |
+| 30 | Implement a siamese neural network for similarity learning. | [src/nn30.py](src/nn30.py) |
+| 31 | Build a neural network to classify synthetic dataset with non-linear decision boundaries. | [src/nn31.py](src/nn31.py) |
+| 32 | Create a neural network that can handle missing data through masking. | [src/nn32.py](src/nn32.py) |
+| 33 | Implement a variational autoencoder (VAE) for data generation. | [src/nn33.py](src/nn33.py) |
+| 34 | Design a neural network that can explain its predictions using saliency maps. | [src/nn34.py](src/nn34.py) |
+| 35 | Create a neural network for dimensionality reduction (similar to PCA). | [src/nn35.py](src/nn35.py) |
