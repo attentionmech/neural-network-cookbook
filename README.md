@@ -20,8 +20,8 @@
 | 16 | Build an autoencoder to learn an encoding for simple data (e.g., a small 2D dataset).         | [src/nn16.py](src/nn16.py)  | Done |
 | 17 | Train an autoencoder and visualize the reconstruction of the input data.                      | [src/nn17.py](src/nn17.py)  | Done |
 | 18 | Implement batch normalization and observe its effect on training speed and performance. | [src/nn18.py](src/nn18.py) | Done |
-| 19 | Create a simple Convolutional Neural Network (CNN) for MNIST digit classification. | [src/nn19.py](src/nn19.py) | Pending |
-| 20 | Implement transfer learning by fine-tuning a pre-trained model on a small dataset. | [src/nn20.py](src/nn20.py) | Pending |
+| 19 | Create a simple Convolutional Neural Network (CNN) for MNIST digit classification. | [src/nn19.py](src/nn19.py) | Done |
+| 20 | Implement transfer learning by fine-tuning a pre-trained model on a small dataset. | [src/nn20.py](src/nn20.py) | Done |
 | 21 | Build a Recurrent Neural Network (RNN) for a simple sequence prediction task. | [src/nn21.py](src/nn21.py) | Pending |
 | 22 | Implement a Long Short-Term Memory (LSTM) network for time series prediction. | [src/nn22.py](src/nn22.py) | Pending |
 | 23 | Create a Generative Adversarial Network (GAN) for generating simple 2D point distributions. | [src/nn23.py](src/nn23.py) | Pending |
