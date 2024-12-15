@@ -27,9 +27,9 @@
 | 23 | Create a Generative Adversarial Network (GAN) for generating simple 2D point distributions. | [src/nn23.py](src/nn23.py) | Done |
 | 24 | Implement weight initialization strategies (Xavier/Glorot, He initialization). | [src/nn24.py](src/nn24.py) | Done |
 | 25 | Build a neural network ensemble and compare its performance to individual models. | [src/nn25.py](src/nn25.py) | Done |
-| 26 | Create a custom loss function and apply it to a neural network. | [src/nn26.py](src/nn26.py) | Pending |
-| 27 | Implement k-fold cross-validation for model evaluation. | [src/nn27.py](src/nn27.py) | Pending |
-| 28 | Design a neural network for function approximation (e.g., approximating sin(x)). | [src/nn28.py](src/nn28.py) | Pending |
+| 26 | Create a custom loss function and apply it to a neural network. | [src/nn26.py](src/nn26.py) | Done |
+| 27 | Implement k-fold cross-validation for model evaluation. | [src/nn27.py](src/nn27.py) | Done |
+| 28 | Design a neural network for function approximation (e.g., approximating sin(x)). | [src/nn28.py](src/nn28.py) | Done |
 | 29 | Create a simple attention mechanism in a neural network. | [src/nn29.py](src/nn29.py) | Pending |
 | 30 | Implement a siamese neural network for similarity learning. | [src/nn30.py](src/nn30.py) | Pending |
 | 31 | Build a neural network to classify synthetic dataset with non-linear decision boundaries. | [src/nn31.py](src/nn31.py) | Pending |
