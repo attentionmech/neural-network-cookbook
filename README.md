@@ -30,10 +30,4 @@
 | 26 | Create a custom loss function and apply it to a neural network. | [src/nn26.py](src/nn26.py) | Done |
 | 27 | Implement k-fold cross-validation for model evaluation. | [src/nn27.py](src/nn27.py) | Done |
 | 28 | Design a neural network for function approximation (e.g., approximating sin(x)). | [src/nn28.py](src/nn28.py) | Done |
-| 29 | Create a simple attention mechanism in a neural network. | [src/nn29.py](src/nn29.py) | Pending |
-| 30 | Implement a siamese neural network for similarity learning. | [src/nn30.py](src/nn30.py) | Pending |
-| 31 | Build a neural network to classify synthetic dataset with non-linear decision boundaries. | [src/nn31.py](src/nn31.py) | Pending |
-| 32 | Create a neural network that can handle missing data through masking. | [src/nn32.py](src/nn32.py) | Pending |
-| 33 | Implement a variational autoencoder (VAE) for data generation. | [src/nn33.py](src/nn33.py) | Pending |
-| 34 | Design a neural network that can explain its predictions using saliency maps. | [src/nn34.py](src/nn34.py) | Pending |
-| 35 | Create a neural network for dimensionality reduction (similar to PCA). | [src/nn35.py](src/nn35.py) | Pending |
+| 29 | Create a simple attention mechanism in a neural network. | [src/nn29.py](src/nn29.py) | Done |
