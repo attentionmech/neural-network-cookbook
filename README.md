@@ -2,9 +2,9 @@
 
 | #  | Task                                                                                          | File Path       |
 |----|-----------------------------------------------------------------------------------------------|-----------------|
-| 1  | Build a simple perceptron to solve the AND gate problem.                                       | [src/nn1.py](src/nn1.py)    |
-| 2  | Train the perceptron to solve the OR gate problem.                                            | [src/nn2.py](src/nn2.py)    |
-| 3  | Build a small MLP with one hidden layer to solve the XOR problem.                              | [src/nn3.py](src/nn3.py)    |
+| 1  | Build a simple perceptron to solve the AND gate problem.(bare)                                       | [src/nn1.py](src/nn1.py)    |
+| 2  | Train the perceptron to solve the OR gate problem.(bare)                                            | [src/nn2.py](src/nn2.py)    |
+| 3  | Build a small MLP with one hidden layer to solve the XOR problem.(bare)                              | [src/nn3.py](src/nn3.py)    |
 | 4  | Visualize the decision boundary of a trained perceptron or MLP on the XOR problem.            | [src/nn4.py](src/nn4.py)    |
 | 5  | Train an MLP with one hidden layer on a custom 2D dataset (e.g., points inside/outside a circle). | [src/nn5.py](src/nn5.py)    |
 | 6  | Add a second hidden layer to the MLP and train it on the XOR problem.                          | [src/nn6.py](src/nn6.py)    |
