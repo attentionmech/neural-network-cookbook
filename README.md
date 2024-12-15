@@ -22,11 +22,11 @@
 | 18 | Implement batch normalization and observe its effect on training speed and performance. | [src/nn18.py](src/nn18.py) | Done |
 | 19 | Create a simple Convolutional Neural Network (CNN) for MNIST digit classification. | [src/nn19.py](src/nn19.py) | Done |
 | 20 | Implement transfer learning by fine-tuning a pre-trained model on a small dataset. | [src/nn20.py](src/nn20.py) | Done |
-| 21 | Build a Recurrent Neural Network (RNN) for a simple sequence prediction task. | [src/nn21.py](src/nn21.py) | Pending |
-| 22 | Implement a Long Short-Term Memory (LSTM) network for time series prediction. | [src/nn22.py](src/nn22.py) | Pending |
-| 23 | Create a Generative Adversarial Network (GAN) for generating simple 2D point distributions. | [src/nn23.py](src/nn23.py) | Pending |
-| 24 | Implement weight initialization strategies (Xavier/Glorot, He initialization). | [src/nn24.py](src/nn24.py) | Pending |
-| 25 | Build a neural network ensemble and compare its performance to individual models. | [src/nn25.py](src/nn25.py) | Pending |
+| 21 | Build a Recurrent Neural Network (RNN) for a simple sequence prediction task. | [src/nn21.py](src/nn21.py) | Done |
+| 22 | Implement a Long Short-Term Memory (LSTM) network for time series prediction. | [src/nn22.py](src/nn22.py) | Done |
+| 23 | Create a Generative Adversarial Network (GAN) for generating simple 2D point distributions. | [src/nn23.py](src/nn23.py) | Done |
+| 24 | Implement weight initialization strategies (Xavier/Glorot, He initialization). | [src/nn24.py](src/nn24.py) | Done |
+| 25 | Build a neural network ensemble and compare its performance to individual models. | [src/nn25.py](src/nn25.py) | Done |
 | 26 | Create a custom loss function and apply it to a neural network. | [src/nn26.py](src/nn26.py) | Pending |
 | 27 | Implement k-fold cross-validation for model evaluation. | [src/nn27.py](src/nn27.py) | Pending |
 | 28 | Design a neural network for function approximation (e.g., approximating sin(x)). | [src/nn28.py](src/nn28.py) | Pending |
